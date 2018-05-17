@@ -16,7 +16,7 @@
 title: "ebook boilerplate"
 description: > # this means to ignore newlines until "baseurl:"
   Jekyllとepubの両方を生成するプロジェクトのボイラープレート.
-baseurl: "/ebook-boilerplate" # the subpath of your site, e.g. /blog
+baseurl: "/ebook_boilerplate" # the subpath of your site, e.g. /blog
 url: "https://karino2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  karino2
 
